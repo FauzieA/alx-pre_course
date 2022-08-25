@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "School"'
+=======
+echo "school"
+updated
+>>>>>>> ab7ce27c3881c0a5c7a69001a00daad171049bfd
